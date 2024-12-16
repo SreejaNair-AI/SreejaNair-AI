@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SreejaNair
 - 👀 I’m interested in AI & ML
-- 🌱 I’m currently into Azure AI
+- 🌱 I’m currently into Azure AI, exploring ML/AI to see if the space is right for me & how to properly transition into and AI expert.
 - 💞️ I studied Post Graduate degree in Data Engineering, Specialised in Gen AI from Indian Institute of Technology (IIT) Jodhpur 
 - 📫 How to reach me g23ai10@iitj.ac.in
 - 😄 Pronouns: She/Her
